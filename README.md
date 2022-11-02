@@ -8,15 +8,15 @@ un student poate comunica cu bibliotecarul prin mesaje.
         
 posibile idei de implementat:
 
-autentificare student 
-editare profil student
-recuperare parola student
-cautare carte
-filtrare/sortare carti
-rezervare/returnare carte
-validare cont student de catre admin
-penalizarea cartilor returnate tarziu (sau deloc :))
-comunicarea student-admin
-notificari prin email/sms
-eventual sistem de plati online
+autentificare student\
+editare profil student\
+recuperare parola student\
+cautare carte\
+filtrare/sortare carti\
+rezervare/returnare carte\
+validare cont student de catre admin\
+penalizarea cartilor returnate tarziu (sau deloc :))\
+comunicarea student-admin\
+notificari prin email/sms\
+eventual sistem de plati online\
 pagina stiri/informatii
