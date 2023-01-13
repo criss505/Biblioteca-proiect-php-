@@ -1,0 +1,30 @@
+cele 10 cerinte
+cam fiecare cerinta 1p
+
+pt minim 5
+functionale paginile (autentificare, delogare, operatii pe baze de date)
+cam primele 5 cerinte
+
+
+1. implementeaza o schema relationala in baza de date (2p)
+2. logare cred (2p)
+3. nu tin minte :) 
+4. ceva de securizare
+
+
+
+
+
+
+--------
+inregistrare + logare prof+admin
+verificarea mailului in 2 pasi (poti sa trim mesaj cu cod de confirmare)
+categorii utilizatori cu actiuni diferite
+finalizare baza de date mysql
+operatii de stergere, adaugare, citire baza de date
+-- api cu parser nu embed sa furi informatia de pe un site (gen weather, dar furi titluri de carti)
+heroku hosting
+raport pdf invoice (pt abonament nou,, imprumut carte etc nuj)
+-- statistici site
+-- formular contact (trimitere mail de ex)
+terminarea sesiunii(?)
